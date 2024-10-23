@@ -1,0 +1,95 @@
+// scale 0.125 antialiasing 0 window 200x200
+java ImageDisplay ../images/16xHD_samples/aurora.rgb 0.125 0 200
+
+// scale 0.125 antialiasing 1 window 200x200
+java ImageDisplay ../images/16xHD_samples/aurora.rgb 0.125 1 200
+
+// scale 0.133 antialiasing 0 window 200x200
+java ImageDisplay ../images/16xHD_samples/aurora.rgb 0.133 0 200
+
+// scale 0.133 antialiasing 1 window 200x200
+java ImageDisplay ../images/16xHD_samples/aurora.rgb 0.133 1 200
+
+// scale 0.111 antialiasing 0 window 200x200
+java ImageDisplay ../images/16xHD_samples/aurora.rgb 0.111 0 200
+
+// scale 0.111 antialiasing 1 window 200x200
+java ImageDisplay ../images/16xHD_samples/aurora.rgb 0.111 1 200
+
+// scale 0.09375 antialiasing 0 window 200
+java ImageDisplay ../images/16xHD_samples/aurora.rgb 0.09375 0 200
+
+// scale 0.09375 antialiasing 1 window 200
+java ImageDisplay ../images/16xHD_samples/aurora.rgb 0.09375 1 200
+
+// scale 0.125 antialiasing 0 window 200x200
+java ImageDisplay ../images/16xHD_samples/national-patk.rgb 0.125 0 200
+
+// scale 0.125 antialiasing 1 window 200x200
+java ImageDisplay ../images/16xHD_samples/national-patk.rgb 0.125 1 200
+
+// scale 0.133 antialiasing 0 window 200x200
+java ImageDisplay ../images/16xHD_samples/national-patk.rgb 0.133 0 200
+
+// scale 0.133 antialiasing 1 window 200x200
+java ImageDisplay ../images/16xHD_samples/national-patk.rgb 0.133 1 200
+
+// scale 0.111 antialiasing 0 window 200x200
+java ImageDisplay ../images/16xHD_samples/national-patk.rgb 0.111 0 200
+
+// scale 0.111 antialiasing 1 window 200x200
+java ImageDisplay ../images/16xHD_samples/national-patk.rgb 0.111 1 200
+
+// scale 0.09375 antialiasing 0 window 200
+java ImageDisplay ../images/16xHD_samples/national-patk.rgb 0.09375 0 200
+
+// scale 0.09375 antialiasing 1 window 200
+java ImageDisplay ../images/16xHD_samples/national-patk.rgb 0.09375 1 200
+
+// scale 0.125 antialiasing 0 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test1.rgb 0.125 0 200
+
+// scale 0.125 antialiasing 1 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test1.rgb 0.125 1 200
+
+// scale 0.133 antialiasing 0 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test1.rgb 0.133 0 200
+
+// scale 0.133 antialiasing 1 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test1.rgb 0.133 1 200
+
+// scale 0.111 antialiasing 0 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test1.rgb 0.111 0 200
+
+// scale 0.111 antialiasing 1 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test1.rgb 0.111 1 200
+
+// scale 0.09375 antialiasing 0 window 200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test1.rgb 0.09375 0 200
+
+// scale 0.09375 antialiasing 1 window 200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test1.rgb 0.09375 1 200
+
+// scale 0.125 antialiasing 0 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test2.rgb 0.125 0 200
+
+// scale 0.125 antialiasing 1 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test2.rgb 0.125 1 200
+
+// scale 0.133 antialiasing 0 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test2.rgb 0.133 0 200
+
+// scale 0.133 antialiasing 1 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test2.rgb 0.133 1 200
+
+// scale 0.111 antialiasing 0 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test2.rgb 0.111 0 200
+
+// scale 0.111 antialiasing 1 window 200x200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test2.rgb 0.111 1 200
+
+// scale 0.09375 antialiasing 0 window 200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test2.rgb 0.09375 0 200
+
+// scale 0.09375 antialiasing 1 window 200
+java ImageDisplay ../images/Aliasing_Samples/aliasing_test2.rgb 0.09375 1 200
