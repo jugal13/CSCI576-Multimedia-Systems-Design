@@ -1,0 +1,25 @@
+java ImageDisplay ../images/dataset/data_sample_rgb/Apple_image.rgb ../images/dataset/data_sample_rgb/Apple_object.rgb (0.503)
+
+java ImageDisplay ../images/dataset/data_sample_rgb/Kirby_image.rgb ../images/dataset/data_sample_rgb/Kirby_object.rgb (0.34)
+
+java ImageDisplay ../images/dataset/data_sample_rgb/Oswald_image.rgb ../images/dataset/data_sample_rgb/Oswald_object.rgb (0.43)
+
+java ImageDisplay ../images/dataset/data_sample_rgb/Pikachu_image.rgb ../images/dataset/data_sample_rgb/pikachu_object.rgb (0.26)
+
+java ImageDisplay ../images/dataset/data_sample_rgb/rose_image.rgb ../images/dataset/data_sample_rgb/rose_object.rgb (0.33)
+
+java ImageDisplay ../images/dataset/data_sample_rgb/strawberry_image.rgb ../images/dataset/data_sample_rgb/strawberry_object.rgb (0.284)
+
+java ImageDisplay ../images/dataset/data_sample_rgb/USC_image.rgb ../images/dataset/data_sample_rgb/USC_object.rgb (0.297)
+
+java ImageDisplay ../images/dataset/data_sample_rgb/Volleyball_image.rgb ../images/dataset/data_sample_rgb/Volleyball_object.rgb (0.433)
+
+java ImageDisplay ../images/dataset/data_sample_rgb/warning_image.rgb ../images/dataset/data_sample_rgb/warning_object.rgb
+
+java ImageDisplay ../images/multi_object_test_new/update_rgb/Multiple_Volleyballs_v2.rgb ../images/dataset/data_sample_rgb/Oswald_object.rgb ../images/dataset/data_sample_rgb/Volleyball_object.rgb (0.4)
+
+java ImageDisplay ../images/multi_object_test_new/update_rgb/Oswald_and_Volleyball_v2.rgb ../images/dataset/data_sample_rgb/Oswald_object.rgb ../images/dataset/data_sample_rgb/Volleyball_object.rgb (0.41)
+
+java ImageDisplay ../images/multi_object_test_new/update_rgb/Pikachu_and_Oswald_v2.rgb ../images/dataset/data_sample_rgb/Oswald_object.rgb ../images/dataset/data_sample_rgb/pikachu_object.rgb (0.365)
+
+java ImageDisplay ../images/multi_object_test/Kirby_Warning.rgb ../images/dataset/data_sample_rgb/Kirby_object.rgb ../images/dataset/data_sample_rgb/warning_object.rgb (0.47)
